@@ -6,7 +6,12 @@
 
 - 🔭 I’m currently working on: **Personal Projects**
 
-- 🌱 I’m currently learning: **Visual C# & Processing & Unity**
+- 🌱 I’m currently learning:
+  <ul>
+  <li> <strong> Visual C# </strong> </li>
+  <li> <strong> Processing </strong> </li>
+  <li> <strong> Unity </strong> </li>
+  </ul>
 
 - ⚡ Fun fact: **I like to draw in my free time**
 
