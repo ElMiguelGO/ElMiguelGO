@@ -1,4 +1,5 @@
-![Banner_S2](https://user-images.githubusercontent.com/113813583/192111829-8ca3ed4a-367a-4a1d-87c6-399bd1c6f75d.png)
+![BannerF](https://user-images.githubusercontent.com/113813583/192113837-ca976075-dda0-499a-9f6a-70a4924e5f57.png)
+
 ## Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
 ## Passionate Software Development Student from Colombia
 <img align="right" alt="Codificación" width="400" src=https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966>
