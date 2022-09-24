@@ -1,4 +1,4 @@
-### Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
+## Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
 ![Banner2](https://user-images.githubusercontent.com/113398998/190945991-15a98f12-e4d6-4fbe-81ad-f44b4b2a4ea1.png)
 ### Passionate Software Development Student from Colombia
 <img align="right" alt="Codificación" width="400" src=https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966>
@@ -17,5 +17,20 @@
 
 - 😄 Pronouns: **He/Him**
 
-<h3 align="left">Languages and Tools💻</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 💻***Technologies & Tools*** 
+
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=Go&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-Unreal_Engine-informational?style=flat&logo=Unreal-Engine&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-SQL_Server-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Code-Processing-informational?style=flat&logo=ProcessingFoundation&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=7790c6)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=7790c6)
+
