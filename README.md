@@ -1,5 +1,5 @@
+![Banner_S2](https://user-images.githubusercontent.com/113813583/192111829-8ca3ed4a-367a-4a1d-87c6-399bd1c6f75d.png)
 ## Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
-![Banner2](https://user-images.githubusercontent.com/113398998/190945991-15a98f12-e4d6-4fbe-81ad-f44b4b2a4ea1.png)
 ## Passionate Software Development Student from Colombia
 <img align="right" alt="Codificación" width="400" src=https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmiguelg&label=Profile%20views&color=0e75b6&style=flat" alt="elmiguelg" /> </p>
