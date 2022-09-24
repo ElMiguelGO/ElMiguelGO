@@ -1,21 +1,36 @@
 ## Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
 ![Banner2](https://user-images.githubusercontent.com/113398998/190945991-15a98f12-e4d6-4fbe-81ad-f44b4b2a4ea1.png)
-### Passionate Software Development Student from Colombia
+## Passionate Software Development Student from Colombia
 <img align="right" alt="Codificación" width="400" src=https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmiguelg&label=Profile%20views&color=0e75b6&style=flat" alt="elmiguelg" /> </p>
 
 - 🔭 I’m currently working on: **Personal Projects**
 
-- 🌱 I’m currently learning:
-  <ul>
-  <li> <strong> Visual C# </strong> </li>
-  <li> <strong> Processing </strong> </li>
-  <li> <strong> Unity </strong> </li>
-  </ul>
+- 👨🏽‍💻 I’m currently learning:
+  - Unreal Engine
+  - Processing
+  - Visual C#
+  - Golang
+  - Unity
 
 - ⚡ Fun fact: **I like to draw in my free time**
 
 - 😄 Pronouns: **He/Him**
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/ElMiguelGO">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMiguelGO&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/ElMiguelGO">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ElMiguelGO&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
 
 ## 💻***Technologies & Tools*** 
 
