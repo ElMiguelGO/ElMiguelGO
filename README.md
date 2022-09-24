@@ -1,4 +1,4 @@
-![BannerF](https://user-images.githubusercontent.com/113813583/192113837-ca976075-dda0-499a-9f6a-70a4924e5f57.png)
+![BannerF](https://user-images.githubusercontent.com/113813583/192113968-720ae6e7-ede6-488e-aa36-eb80f2137767.png)
 
 ## Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
 ## Passionate Software Development Student from Colombia
